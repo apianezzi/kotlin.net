@@ -43,4 +43,6 @@ public static class Preconditions
     }
     
     public static void Error(string message) => throw new InvalidOperationException(message);
+
+    public static void TODO() => throw new NotImplementedException();
 }
