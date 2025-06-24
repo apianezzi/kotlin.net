@@ -1,0 +1,14 @@
+﻿   Copyright notice of Kotlin Project as provided in 
+   https://github.com/JetBrains/kotlin/blob/rrr/2.1.0/core-docs/license/COPYRIGHT.txt, on the 24-06-2025
+   
+   Begin of actual notice after --
+   --
+   
+   =========================================================================
+   ==  NOTICE file corresponding to the section 4 d of                    ==
+   ==  the Apache License, Version 2.0,                                   ==
+   ==  in this case for the Kotlin Compiler distribution.                 ==
+   =========================================================================
+
+   Kotlin Compiler
+   Copyright 2010-2024 JetBrains s.r.o and respective authors and developers
