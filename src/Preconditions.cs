@@ -1,5 +1,3 @@
-using System;
-
 namespace kotlin.net;
 
 /// <summary>
@@ -21,6 +19,7 @@ public static class Preconditions
         {
             throw new ArgumentNullException(message);
         }
+
         return value;
     }
 
@@ -38,11 +37,9 @@ public static class Preconditions
         {
             throw new InvalidOperationException(message);
         }
-        
+
         return value;
     }
-    
-    public static void Error(string message) => throw new InvalidOperationException(message);
 
-    public static void TODO() => throw new NotImplementedException();
+    public static void Error(string message) => throw new InvalidOperationException(message);
 }
